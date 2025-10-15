@@ -3456,7 +3456,7 @@ async function nginx() {
 	</style>
 	</head>
 	<body>
-	<h1>Welcome to nginx!</h1>
+	<h1>Welcome to nginx_test!</h1>
 	<p>If you see this page, the nginx web server is successfully installed and
 	working. Further configuration is required.</p>
 	
@@ -5812,3 +5812,4 @@ async function handleWebSocket(request) {
         webSocket: client
     });
 }
+
